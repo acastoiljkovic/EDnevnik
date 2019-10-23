@@ -1,0 +1,192 @@
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\EDnevnikWebApp.dll.config
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\EDnevnikWebApp.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\EDnevnikWebApp.pdb
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\csc.exe
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\csc.exe.config
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\csc.rsp
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\csi.exe
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\csi.exe.config
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\csi.rsp
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Console.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\vbc.exe
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\vbc.exe.config
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\vbc.rsp
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\Antlr3.Runtime.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\EDnevnikMapiranje.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\Newtonsoft.Json.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.Helpers.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.Http.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.Mvc.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.Optimization.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.Razor.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.WebPages.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\WebGrease.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\NHibernate.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\FluentNHibernate.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\Remotion.Linq.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\Remotion.Linq.EagerFetching.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\Iesi.Collections.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\EDnevnikMapiranje.pdb
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\EDnevnikMapiranje.dll.config
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\Newtonsoft.Json.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.Helpers.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.Http.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.Mvc.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.Optimization.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.Razor.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.WebPages.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\NHibernate.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\FluentNHibernate.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\Remotion.Linq.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\Remotion.Linq.EagerFetching.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\Iesi.Collections.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\obj\Debug\EDnevnikWebApp.csprojAssemblyReference.cache
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\obj\Debug\EDnevnikWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\obj\Debug\EDnevnikWebApp.csproj.CopyComplete
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\obj\Debug\EDnevnikWebApp.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\obj\Debug\EDnevnikWebApp.pdb
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\Oracle.ManagedDataAccess.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\EDnevnikWebApp.dll.config
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\EDnevnikWebApp.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\EDnevnikWebApp.pdb
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\csc.exe
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\csc.exe.config
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\csc.rsp
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\csi.exe
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\csi.exe.config
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\csi.rsp
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.AppContext.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Console.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.IO.Compression.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.IO.FileSystem.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.IO.Pipes.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Security.AccessControl.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Security.Claims.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.ValueTuple.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Xml.XPath.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\vbc.exe
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\vbc.exe.config
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\vbc.rsp
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\VBCSCompiler.exe
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\Antlr3.Runtime.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\EDnevnikMapiranje.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\FluentNHibernate.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\Iesi.Collections.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\Newtonsoft.Json.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\NHibernate.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\Oracle.ManagedDataAccess.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\Remotion.Linq.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Net.Http.Formatting.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.Helpers.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.Http.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.Http.WebHost.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.Mvc.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.Optimization.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.Razor.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.WebPages.Deployment.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.WebPages.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.WebPages.Razor.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\WebGrease.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\Remotion.Linq.EagerFetching.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\EDnevnikMapiranje.pdb
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\EDnevnikMapiranje.dll.config
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\FluentNHibernate.xml
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\Iesi.Collections.xml
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\NHibernate.xml
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\Remotion.Linq.xml
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\Newtonsoft.Json.xml
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Net.Http.Formatting.xml
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.Helpers.xml
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.Http.xml
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.Http.WebHost.xml
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.Mvc.xml
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.Optimization.xml
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.Razor.xml
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.WebPages.xml
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.WebPages.Deployment.xml
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\System.Web.WebPages.Razor.xml
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\Antlr3.Runtime.pdb
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\bin\Remotion.Linq.EagerFetching.xml
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\obj\Debug\EDnevnikWebApp.csprojAssemblyReference.cache
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\obj\Debug\EDnevnikWebApp.csproj.CoreCompileInputs.cache
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\obj\Debug\EDnevnikWebApp.csproj.CopyComplete
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\obj\Debug\EDnevnikWebApp.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\Web\EDnevnikMapiranjeFinal\EDnevnikWebApp\obj\Debug\EDnevnikWebApp.pdb
